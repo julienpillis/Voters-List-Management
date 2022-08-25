@@ -1,6 +1,6 @@
 # Voters-List-Management
 
-Whithin the scope of the NF16 (Data Structures and Algorithms) course @ Université de Technologie de Compiègne, I had to manage lists of voters using linked lists in C. 
+Within the scope of the NF16 (Data Structures and Algorithms) course @ Université de Technologie de Compiègne, I had to manage lists of voters using linked lists in C. 
 
 The goal of this project/practical work is to create a program that manages data relating to voters (name, CIN number and choice) of the presidential election. For the data processing of voters (different choices within the menu), we will have to use the implementation of lists of voters as linked lists in C language. To use this data structure, we will need to define the cells of the list, representing the voters and their attributes, as well as the list itself, a pointer to the first cell (the head).
 
