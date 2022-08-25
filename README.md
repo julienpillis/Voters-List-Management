@@ -12,11 +12,11 @@ The goal of this project/practical work is to create a program that manages data
   - Rapport_Projet_Complexite.pdf : Project report about how it works and function complexity study.
   
   
-[remarks] : 
+<ins>Remarks</ins> : 
   - all in-file comments and report are in french.  
   - The grade given by teachers for this work : 18/20 
  
-[Overview] :
+<ins>Overview</ins> :
 
 ![TEST-1](https://user-images.githubusercontent.com/73343827/186670956-6405a0bc-7dc4-4612-9f40-53fb629d906f.png)
 ![TEST-2](https://user-images.githubusercontent.com/73343827/186670963-49a662cf-4fca-45d4-97a0-3aabd3676799.png)
