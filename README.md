@@ -1,6 +1,7 @@
 # Voters-List-Management
 
 Whithin the scope of the NF16 (Data Structures and Algorithms) course @ UTC, I had to manage lists of voters using linked lists in C. 
+
 Structure of project files:
   - main.c : Here, you'll find the menu of features that the project offers.
   - tp3.c : All features are implemented in this file, as functions.
