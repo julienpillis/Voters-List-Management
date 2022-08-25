@@ -18,11 +18,7 @@ Structure of the project:
   
  Overview :
  
-  - ![Screenshot 1](https://user-images.githubusercontent.com/73343827/186667676-f6545302-a77e-4a30-a7f4-b2d3995961fb.png)
+![image](https://user-images.githubusercontent.com/73343827/186668939-c6b765ef-8976-48f1-93e6-12e25b76039b.png)
 
-  - ![Screenshot 2](https://user-images.githubusercontent.com/73343827/186667939-34b68a85-e642-48a3-b053-44d03ed4ccb4.png)
-
-  - ![Screenshot 3](https://user-images.githubusercontent.com/73343827/186668082-2e9fc200-d57d-4237-aaca-3130959f9a9a.png)
-
-  - ![Screenshot 4](https://user-images.githubusercontent.com/73343827/186668303-139afef1-d186-48d9-ac16-23a9ca44667b.png)
+![image](https://user-images.githubusercontent.com/73343827/186669074-6a2ec4cd-9a76-42c3-b42b-c3123a8e72cb.png)
 
