@@ -18,7 +18,6 @@ Structure of the project:
   
  Overview :
  
-![image](https://user-images.githubusercontent.com/73343827/186668939-c6b765ef-8976-48f1-93e6-12e25b76039b.png)
 
-![image](https://user-images.githubusercontent.com/73343827/186669074-6a2ec4cd-9a76-42c3-b42b-c3123a8e72cb.png)
 
+[TEST.pdf](https://github.com/julienpillis/Voters-List-Management/files/9424838/TEST.pdf)
